@@ -1,5 +1,6 @@
 # Presentation
-Next Presentations are the next scheduled presentations. Proposed Presentations are in a suggested order, but can be moved on a pull request.
+Next Presentations are the next scheduled presentations.
+Proposed Presentations are in a suggested order. Move requests can be submitted via Pull Request and will be addressed during the next meeting.
 
 ## Next Presentations
 - @n3ar     -- Branch History Injection: On the Effectiveness of Hardware Mitigations Against Cross-Privilege Spectre-v2 Attacks
