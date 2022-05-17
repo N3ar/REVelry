@@ -16,6 +16,7 @@ Proposed Presentations are in a suggested order. Move requests can be submitted 
 - Fuzzware: Using Precise MMIO Modeling for Effective Firmware Fuzzing
 - BugsBunny: Hopping to RTL Targets with a Directed Hardware-Design Fuzzer
 - Mitigating Information Leakage Vulnerabilities with Type-based Data Isolation
+- An Analysis of Speculative Type Confusion Vulnerabilities in the Wild
 
 ## Past Presentation
 Past presentation slides can be found in the `past-presentations` directory and follow the pattern YYYYMMDD-Title.ppt
